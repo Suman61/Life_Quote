@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Life_Quote/static/css/main.32bdd0b3.css",
+    "main.js": "/Life_Quote/static/js/main.d529ad98.js",
+    "index.html": "/Life_Quote/index.html",
+    "main.32bdd0b3.css.map": "/Life_Quote/static/css/main.32bdd0b3.css.map",
+    "main.d529ad98.js.map": "/Life_Quote/static/js/main.d529ad98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32bdd0b3.css",
+    "static/js/main.d529ad98.js"
+  ]
+}
